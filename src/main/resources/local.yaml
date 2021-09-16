@@ -1,0 +1,10 @@
+host: "localhost"
+port: "8085"
+
+wsc.host: "localhost"
+wsc.port: "8086"
+
+wsdl:
+ location: "https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL"
+ address: "https://www.crcind.com/csp/samples/SOAP.Demo.cls"
+ 
